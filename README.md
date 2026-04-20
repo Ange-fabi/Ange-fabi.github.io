@@ -7,7 +7,7 @@
 
 ## 📌 À propos de moi
 
-Avec un parcours centré sur la sécurité des systèmes et la détection d'intrusion, je souhaite intégrer votre entreprise en alternance ou en stage pour renforcer votre défense et participer à la sécurisation de votre infrastructure.
+Avec un parcours centré sur la sécurité des systèmes et la détection d'intrusion, je souhaite intégrer votre entreprise en alternance ou stage pour renforcer votre défense et participer à la sécurisation de votre infrastructure.
 
 J'ai déjà réalisé deux stages :
 - **Camaroes SARL** : audit de sécurité, tests de vulnérabilité
