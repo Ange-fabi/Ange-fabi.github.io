@@ -145,7 +145,7 @@ DNS        IN  A     192.168.1.1
 ## MOBILITÉ INTERNATIONALE
 
 **Programme Erasmus** – Université lucian blaga (Roumanie) – 2025-2026
-- Master I embedded system and Master I IA (cours) 
+- Master I embedded system and Master I IA (en cours) 
 - Adaptation à un nouveau système éducatif et culturel
 - Cours en anglais, environnement international
 
