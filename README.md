@@ -159,6 +159,3 @@ DNS        IN  A     192.168.1.1
 
 - Bénévole COP 1 – Angers
 
-# 📂 Téléchargements
-
-- [Mon CV (PDF)] [télécharger mon CV](./Fabienne-Ange-Jazet.pdf)
