@@ -95,8 +95,8 @@ table inet mon_filtre {
 - Logs kernel avec mentions INTRUSION_DETECTEE
 - Tentatives SYN sur ports variés (1132, 5002, 2047, 1310, 6580...)
 
-![nftables-rules](https://./images/nftables-rules.png)
-![intrusion-logs](https://./images/intrusion-logs.png)
+![nftables-rules](./images/nftables-rules.png)
+![intrusion-logs](./images/intrusion-logs.png)
 
 ## 4. 🌐 Infrastructure réseau multisite (Cisco Packet Tracer)
 Routage et segmentation
@@ -108,7 +108,7 @@ Routage et segmentation
 
 **Compétences validées :** Configuration d'équipements Cisco, isolation des flux, gestion d'adressage IP.
 
-![cisco-vlan](https://./images/cisco-vlan.png)
+![cisco-vlan](./images/cisco-vlan.png)
 
 ## 5. 🖧 Serveur DNS (Bind9)
 Résolution de noms interne
@@ -118,7 +118,7 @@ Résolution de noms interne
 - Zones forward et reverse
 - Résolution de noms pour un réseau local
 
-![dns-config](https://./images/dns-config.png)
+![dns-config](./images/dns-config.png)
 
 ## 6. 🎮 Bataille navale en C (Visual Studio)
 Jeu en mode terminal
