@@ -81,7 +81,7 @@ En parallèle, je construis mon propre laboratoire technique à la maison (VMs L
 **Objectif** : Configurer un firewall restrictif et détecter les scans.
 
 **Configuration nftables** :
-
+``` nft
 table inet mon_filtre {
     chain input {
         type filter hook input priority filter; policy drop;
@@ -89,6 +89,7 @@ table inet mon_filtre {
         ct state established,related accept
     }
 }
+```
 # Détection :
 
 - Scan Nmap depuis Kali (ports filtrés)
