@@ -88,7 +88,7 @@ table inet mon_filtre {
         icmp type echo-request accept
         ct state established,related accept
     }
-}
+}```
 # Détection :
 
 - Scan Nmap depuis Kali (ports filtrés)
