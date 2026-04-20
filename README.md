@@ -1,14 +1,13 @@
 # Fabienne Ange Jazet Tonleu
 
-**Étudiante en Cybersécurité & Administration systèmes** – Recherche stage (juillet-septembre 2026) ou alternance (dès septembre 2026)
-
+**Étudiante en Cybersécurité & Administration systèmes** 
 > *"J'attaque pour mieux défendre. Je documente pour mieux progresser."*
 
 ---
 
 ## 📌 À propos de moi
 
-Actuellement en 1ère année du cycle ingénieur du numérique (bac+3) à l'ESAI d'Angers, je cherche un stage du 10 juillet au 10 septembre 2026 ou une alternance à partir de septembre 2026.
+Avec un parcours centré sur la sécurité des systèmes et la détection d'intrusion, je souhaite intégrer votre entreprise en alternance ou en stage pour renforcer votre défense et participer à la sécurisation de votre infrastructure.
 
 J'ai déjà réalisé deux stages :
 - **Camaroes SARL** : audit de sécurité, tests de vulnérabilité
@@ -17,8 +16,8 @@ J'ai déjà réalisé deux stages :
 En parallèle, je construis mon propre laboratoire technique à la maison (VMs Linux, Kali, Debian) pour maîtriser la sécurité offensive et défensive. Ce portfolio rassemble mes projets personnels.
 
 📫 **Contact** : angejaz59@gmail.com | 07 53 42 33 98  
-🔗 **GitHub** : [github.com/tonpseudo](https://github.com/tonpseudo)  
-🔗 **LinkedIn** : [linkedin.com/in/tonpseudo](https://linkedin.com/in/tonpseudo)  
+🔗 **GitHub** : [github.com/Ange-fabi](https://github.com/tonpseudo)  
+🔗 **LinkedIn** : [linkedin.com/in/fabienne-ange-jazet-tonleu](https://linkedin.com/in/fabienne-ange-jazet-tonleu)
 🌐 **CV** : [télécharger mon CV](./cv-fabienne-jazet.pdf)
 
 ---
@@ -103,9 +102,8 @@ table inet mon_filtre {
 Routage et segmentation
 
 **Technologies mises en œuvre :**
-- Routage statique et RIP
-- VLANs et ACLs
-- DNS, DHCP, SSH
+- VLANs (création, affectation des ports)
+- Trunk (802.1Q) 
 
 **Compétences validées :** Configuration d'équipements Cisco, isolation des flux, gestion d'adressage IP.
 
@@ -134,38 +132,22 @@ DNS        IN  A     192.168.1.1
 ```
 ![dns-config](./images/dns-config.png)
 
-## 6. 🎮 Bataille navale en C (Visual Studio)
-Jeu en mode terminal
-
-**Fonctionnalités :**
-- Joueur vs ordinateur
-- Gestion des coups
-- Vérification des placements de bateaux
-- Boucle de jeu
-
-📹 **Démonstration vidéo :** (lien vers ta vidéo ou capture d'écran)
-
-**Code source :** [lien vers le dossier GitHub du projet]
-
-## 7. 🎲 Jeu Unity + IA (en cours)
-Développement d'un agent intelligent
-
-**État :** Projet en cours  
-**Prochaine étape :** Intégration d'un agent IA (pathfinding ou comportement automatique)  
-**Technologies :** C#, Unity
-
-📹 **Démonstration vidéo :** (lien vers ta vidéo de gameplay)
-
 ---
 
 # 🎓 Formations
 
 | Diplôme | Établissement | Année |
 |---------|--------------|-------|
-| 1re année cycle ingénieur du numérique (bac+3) | ESAI, Angers | 2025-2026 |
+| 1re année cycle ingénieur du numérique (bac+3) | ESAIP, Angers | 2025-2026 |
 | Tronc commun cycle ingénieur | ENSPD, Douala | 2023-2025 |
-| Licence 1 Biochimie | Université de Douala | 2022-2023 |
 | Baccalauréat | Douala, Cameroun | 2022 |
+
+## MOBILITÉ INTERNATIONALE
+
+**Programme Erasmus** – Université lucian blaga (Roumanie) – 2025-2026
+- Master I embedded system and Master I IA (cours) 
+- Adaptation à un nouveau système éducatif et culturel
+- Cours en anglais, environnement international
 
 # 🌍 Langues
 
@@ -180,4 +162,4 @@ Développement d'un agent intelligent
 # 📂 Téléchargements
 
 - [Mon CV (PDF)](#)
-- [Mon GitHub](https://github.com/)
+- [Mon GitHub
