@@ -18,7 +18,7 @@ En parallèle, je construis mon propre laboratoire technique à la maison (VMs L
 📫 **Contact** : angejaz59@gmail.com | 07 53 42 33 98  
 🔗 **GitHub** : [github.com/Ange-fabi](https://github.com/tonpseudo)  
 🔗 **LinkedIn** : [linkedin.com/in/fabienne-ange-jazet-tonleu-8197453b4](https://www.linkedin.com/in/fabienne-ange-jazet-tonleu-8197453b4)
-🌐 **CV** : [télécharger mon CV](./Fabienne.Ange.Jazet.Tonleu.CV.pdf)
+🌐 **CV** : [télécharger mon CV](./Fabienne-Ange-Jazet.pdf)
 
 ---
 
